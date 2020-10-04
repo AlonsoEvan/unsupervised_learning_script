@@ -4,9 +4,9 @@ A easy to follow script for those who want a quick glance on their unsupervised 
 
 The script will output the following metrics :
 
-ARI
-AMI
-Homogenity
-Completeness
-V_measure
-Silhouette
+- ARI
+- AMI
+- Homogenity
+- Completeness
+- V_measure
+- Silhouette
